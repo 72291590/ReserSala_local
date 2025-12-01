@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880724721100",
+    "project_id": "resersala",
+    "storage_bucket": "resersala.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880724721100:android:7c7cb808e893de8b6f7169",
+        "android_client_info": {
+          "package_name": "com.example.resersala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwdV4SiQCGNDwiQwAROjfVA221tGecO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880724721100:android:e80dc838f728f2786f7169",
+        "android_client_info": {
+          "package_name": "com.example.resersala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwdV4SiQCGNDwiQwAROjfVA221tGecO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
